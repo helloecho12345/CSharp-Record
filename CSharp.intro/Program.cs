@@ -23,22 +23,42 @@
 // }
 
 
+// using System;
+
+// namespace CSharp.Intro
+// {
+//   class Calculator
+//   {
+//     static void Main(string[] args)
+// {
+//     new Calculator().Calculate();
+// }
+//     // what does this method return?
+//     public void Calculate()
+//     {
+//       // note that the we have to declare a type (int) for the variable (result)
+//       int result = 2 + 2;
+//       Console.WriteLine("The result is {0:d}", result);
+//     }
+//   }
+// }
+
+
+
 using System;
 
 namespace CSharp.Intro
 {
-  class Calculator
+  class Clock
   {
     static void Main(string[] args)
 {
-    new Calculator().Calculate();
+    new Clock().DisplayTime();
 }
-    // what does this method return?
-    public void Calculate()
+    public void DisplayTime()
     {
-      // note that the we have to declare a type (int) for the variable (result)
-      int result = 2 + 2;
-      Console.WriteLine("The result is {0:d}", result);
+      DateTime date1 = DateTime.Now;
+      Console.WriteLine("The current time is " + date1.ToString ("H:mm"));
     }
   }
 }
