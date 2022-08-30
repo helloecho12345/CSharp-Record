@@ -58,7 +58,18 @@ namespace CSharp.Intro
     public void DisplayTime()
     {
       DateTime date1 = DateTime.Now;
-      Console.WriteLine("The current time is " + date1.ToString ("H:mm"));
+      Console.Write("The current ");
+      Console.ForegroundColor = ConsoleColor.Red; // sets the color of the text in the console to red
+      Console.Write("time ");
+      Console.ResetColor();
+      Console.WriteLine(date1.ToString ("H:mm"));
     }
+
+// function is public, returns a string, expects a string argument
+    // public String DisplayHello(String name){
+    //   return "Hello World, " + name;
+    // }
+
   }
 }
+
