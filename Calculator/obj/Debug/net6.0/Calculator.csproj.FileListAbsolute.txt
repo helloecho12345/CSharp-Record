@@ -1,0 +1,15 @@
+/Users/echo/Projects/CSharp-Record/Calculator/bin/Debug/net6.0/Calculator
+/Users/echo/Projects/CSharp-Record/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/echo/Projects/CSharp-Record/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/echo/Projects/CSharp-Record/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/echo/Projects/CSharp-Record/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/echo/Projects/CSharp-Record/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/echo/Projects/CSharp-Record/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Projects/CSharp-Record/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/echo/Projects/CSharp-Record/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/echo/Projects/CSharp-Record/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/echo/Projects/CSharp-Record/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/echo/Projects/CSharp-Record/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/echo/Projects/CSharp-Record/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/echo/Projects/CSharp-Record/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/echo/Projects/CSharp-Record/Calculator/obj/Debug/net6.0/ref/Calculator.dll
