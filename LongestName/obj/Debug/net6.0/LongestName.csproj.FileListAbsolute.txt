@@ -1,0 +1,5 @@
+/Users/echo/Projects/CSharp-Record/LongestName/obj/Debug/net6.0/LongestName.csproj.AssemblyReference.cache
+/Users/echo/Projects/CSharp-Record/LongestName/obj/Debug/net6.0/LongestName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Projects/CSharp-Record/LongestName/obj/Debug/net6.0/LongestName.AssemblyInfoInputs.cache
+/Users/echo/Projects/CSharp-Record/LongestName/obj/Debug/net6.0/LongestName.AssemblyInfo.cs
+/Users/echo/Projects/CSharp-Record/LongestName/obj/Debug/net6.0/LongestName.csproj.CoreCompileInputs.cache
