@@ -16,8 +16,8 @@ namespace CSharp.Intro
     {
       // note that the we have to declare a type (int) for the variable (result)
       // int result = 2 + 2;
-      string result= 2 + 2;
-      Console.WriteLine("The result is {0:d}", result);
+     double result= 2.5 + 2.5;
+      Console.WriteLine("The result is {0}", result);
     }
   }
 }
