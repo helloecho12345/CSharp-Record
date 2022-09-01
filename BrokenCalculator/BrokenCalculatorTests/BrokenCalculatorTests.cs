@@ -29,7 +29,7 @@ namespace BrokenCalculator.Tests
     public void Multiply_TwoNumbers_ReturnProduct(int first, int second)
     {
       BrokenCalculator brokencalculator = new BrokenCalculator();
-      int actual = brokenCalculator.Multiply(first, second);
+      int actual = brokencalculator.Multiply(first, second);
       int expected = first * second;
       Assert.AreEqual(actual, expected);
     }
