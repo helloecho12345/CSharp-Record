@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceDisplay", "PriceDisplay\PriceDisplay.csproj", "{35E432AE-88E7-45C7-A321-78A59A646CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceDisplay.Tests", "PriceDisplay.Tests\PriceDisplay.Tests.csproj", "{77C6A7E3-BDFD-4BCE-9E54-8339D2EA8953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71242F81-39A5-4AA2-B697-2BC749E636F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71242F81-39A5-4AA2-B697-2BC749E636F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71242F81-39A5-4AA2-B697-2BC749E636F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71242F81-39A5-4AA2-B697-2BC749E636F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E432AE-88E7-45C7-A321-78A59A646CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E432AE-88E7-45C7-A321-78A59A646CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E432AE-88E7-45C7-A321-78A59A646CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E432AE-88E7-45C7-A321-78A59A646CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C6A7E3-BDFD-4BCE-9E54-8339D2EA8953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C6A7E3-BDFD-4BCE-9E54-8339D2EA8953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C6A7E3-BDFD-4BCE-9E54-8339D2EA8953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C6A7E3-BDFD-4BCE-9E54-8339D2EA8953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
