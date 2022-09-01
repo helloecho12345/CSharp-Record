@@ -1,0 +1,15 @@
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/bin/Debug/net6.0/BrokenCalculator
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/bin/Debug/net6.0/BrokenCalculator.deps.json
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/bin/Debug/net6.0/BrokenCalculator.runtimeconfig.json
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/bin/Debug/net6.0/BrokenCalculator.dll
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/bin/Debug/net6.0/BrokenCalculator.pdb
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.csproj.AssemblyReference.cache
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.AssemblyInfoInputs.cache
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.AssemblyInfo.cs
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.csproj.CoreCompileInputs.cache
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.dll
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/obj/Debug/net6.0/refint/BrokenCalculator.dll
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.pdb
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.genruntimeconfig.cache
+/Users/echo/Projects/CSharp-Record/BrokenCalculator/BrokenCalculator/obj/Debug/net6.0/ref/BrokenCalculator.dll
