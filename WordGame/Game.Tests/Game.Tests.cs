@@ -6,7 +6,7 @@ namespace Game.Tests {
   public class GameTests {
     [Test]
     public void Game_GetWordToGuess_ReturnsWordToGuess() {
-      Game game = new Game();
+      Game game = new Game("MAKERS");
       Assert.AreEqual("B_____", game.GetWordToGuess());
     }
   }
