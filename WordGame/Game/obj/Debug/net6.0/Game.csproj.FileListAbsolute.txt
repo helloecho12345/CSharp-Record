@@ -1,0 +1,15 @@
+/Users/echo/Projects/CSharp-Record/WordGame/Game/bin/Debug/net6.0/Game
+/Users/echo/Projects/CSharp-Record/WordGame/Game/bin/Debug/net6.0/Game.deps.json
+/Users/echo/Projects/CSharp-Record/WordGame/Game/bin/Debug/net6.0/Game.runtimeconfig.json
+/Users/echo/Projects/CSharp-Record/WordGame/Game/bin/Debug/net6.0/Game.dll
+/Users/echo/Projects/CSharp-Record/WordGame/Game/bin/Debug/net6.0/Game.pdb
+/Users/echo/Projects/CSharp-Record/WordGame/Game/obj/Debug/net6.0/Game.csproj.AssemblyReference.cache
+/Users/echo/Projects/CSharp-Record/WordGame/Game/obj/Debug/net6.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Projects/CSharp-Record/WordGame/Game/obj/Debug/net6.0/Game.AssemblyInfoInputs.cache
+/Users/echo/Projects/CSharp-Record/WordGame/Game/obj/Debug/net6.0/Game.AssemblyInfo.cs
+/Users/echo/Projects/CSharp-Record/WordGame/Game/obj/Debug/net6.0/Game.csproj.CoreCompileInputs.cache
+/Users/echo/Projects/CSharp-Record/WordGame/Game/obj/Debug/net6.0/Game.dll
+/Users/echo/Projects/CSharp-Record/WordGame/Game/obj/Debug/net6.0/refint/Game.dll
+/Users/echo/Projects/CSharp-Record/WordGame/Game/obj/Debug/net6.0/Game.pdb
+/Users/echo/Projects/CSharp-Record/WordGame/Game/obj/Debug/net6.0/Game.genruntimeconfig.cache
+/Users/echo/Projects/CSharp-Record/WordGame/Game/obj/Debug/net6.0/ref/Game.dll
